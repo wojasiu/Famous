@@ -27,6 +27,6 @@ National Team: Poland
 ## Learn More About Robert Lewandowski
 
 - [Robert Lewandowskion Wikipedia](https://pl.wikipedia.org/wiki/Robert_Lewandowski)
-- Strona klubu(https://www.fcbarca.com/ )
+- [Strona klubu](https://www.fcbarca.com/ )
 
 
